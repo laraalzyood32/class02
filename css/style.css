@@ -1,0 +1,27 @@
+th,td{
+    border:5px solid black ;
+  }
+  
+  table{
+    border-collapse: separate;
+  }
+h1{
+    color: rgb(154, 192, 16);
+}
+h2{
+    color: rgb(178, 189, 24);
+}
+h3{
+    color: rgb(178, 189, 24);
+}
+h3{
+    color: rgb(178, 189, 24);
+}body{
+    background-color: antiquewhite;
+}
+<style> 
+p {text-indent: 10em;}
+style::after"margin-left:3em";
+padding: 7em   2em   0;
+style : solid ;
+</style>
