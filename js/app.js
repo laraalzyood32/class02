@@ -3,19 +3,9 @@
 let username='lara';
 let age=30;
 
-let res = ans1.toUpperCase();
-
-
-
-function rep (ans1,ans2)
-console.log("welcom");
-
-console.log("guessing game about me");
-
-let user=prompt('my favourite snak is banana?');
-if (user=='y' || user=='Y' || user=='YES' || user==yes)
+function rep (yes){
+    if (user=='y' || user=='Y' || user=='YES' || user==yes)
 {
-
 
 
     alert('this is wrong');
@@ -26,33 +16,49 @@ if (user=='y' || user=='Y' || user=='YES' || user==yes)
         alert('this is correct');
     
     }
-    
+}
+
+console.log("welcom");
+
+console.log("guessing game about me");
+
+let user=prompt('my favourite snak is banana?');
+
+    rep(user);
 
         
     
 let userage=prompt("my age is 30?");
-if (user==ans1)
-{
+rep(user);
+function rep (yes){
+if (user=='y' || user=='Y' || user=='YES' || user==yes){
     alert('this is correct');
     }else 
     {
         alert('this is wrong');
-    }
+}
+
+    
+    
         
 
     
 let userInput=prompt('does i love winter: ');
-if (user==ans1)
+
+repo(userInput);
+function repo (no){
+
+if (user=='n' || user=='N' || user=='NO' || user=='no')
 {
-    alert('this is wrong');
+    alert('this is correct');
     }else
     {
-        alert('this is correct');
+        alert('this is wrong');
     }
 
- 
-
+}
+}
 let userout=prompt("enter your name");
 
-alert ("you win");
-alert('welcome ',USEROUT);
+alert("you win");
+alert("welcome");
