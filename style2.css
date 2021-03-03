@@ -1,0 +1,14 @@
+body{
+    background-color: bisque;
+    font-size: large;
+    font-weight: bold;
+    margin-left: 2rem;
+}
+main{
+    padding-bottom: 0vmax;
+    font-weight: bold;
+    font-style: italic;
+    font-color:green;
+border: aqua;
+float: left;
+}
