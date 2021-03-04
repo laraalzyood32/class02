@@ -1,26 +1,14 @@
-th,td{
-    border:5px solid black ;
-  }
-  
-  table{
-    border-collapse: separate;
-  }
-h1{
-    color: rgb(154, 192, 16);
+body{
+    background-color: bisque;
+    font-size: large;
+    font-weight: bold;
+    margin-left: 2rem;
 }
-h2{
-    color: rgb(178, 189, 24);
+main{
+    padding-bottom: 0vmax;
+    font-weight: bold;
+    font-style: italic;
+    font-color:green;
+border: aqua;
+float: left;
 }
-h3{
-    color: rgb(178, 189, 24);
-}
-h3{
-    color: rgb(178, 189, 24);
-}body{
-    background-color: antiquewhite;
-}
-<style> 
-p {text-indent: 10em;}
-padding : 7em   2em   0;
-style : solid ;
-</style>
